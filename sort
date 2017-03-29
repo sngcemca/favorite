@@ -2,6 +2,7 @@ public static void main()
 
 {
 int a;
+int b;
 System.out.println("AAA");
 return 0;
 }
